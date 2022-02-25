@@ -1,0 +1,4 @@
+name=Viki Hopper JPN CVVC (2020)
+image=icon.bmp
+author=Seiun Virtual Idols
+web=www.seiun.co
