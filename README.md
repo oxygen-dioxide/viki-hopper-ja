@@ -1,7 +1,7 @@
 # viki-hopper-jpn
 **English** | [中文](README_zh.md)
 
-Viki Hopper is a UTAU virtual singer developed by Xepheris. This repo is a mirror site of Viki Hopper's Japanese VCV UTAU voicebank. No changes are made on wav files and oto.ini files.
+Viki Hopper is a UTAU virtual singer developed by Seiun. This repo is a mirror site of Viki Hopper's Japanese CVVC UTAU voicebank. No changes are made on wav files and oto.ini files.
 
 According to Viki Hopper's [Voicebank Terms of Use](license.md), redistribution of voicebanks is allowed without permission, so long as the voicebank name and author are credited, and any changes you have made are clearly stated.
 
